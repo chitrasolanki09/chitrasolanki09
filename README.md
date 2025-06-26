@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @chitrasolanki
-- 👀 I’m interested in Data Analyst Job
-- 🌱 I’m currently learning Excel and python
-- 💞️ I’m looking to collaborate on projects to help me build my skills.
-- 📫 How to reach me?
-- You can send me the project and anything related to data analysis to my Gmail: chitrasolanki09@gmail.com
+-  Hi, I'm Chitra
+  <br>
+Aspiring Data Analyst | Excel Enthusiast | Passionate Learner
+
+I'm currently building hands-on projects using Excel, Power Query, and Power Pivot to strengthen my skills in data cleaning, analysis, and visualization.
+
+🔧 Tools I’m Learning and Using:
+
+Microsoft Excel (Formulas, Pivot Tables, Dashboards, Lookup Formula)
+Power Query, Power Pivot, Logical Functions 
+SQL (beginner level)
+
+📌 I'm open to feedback, collaboration, and opportunities in the field of data analytics.
+
+
 
 <!---
 chitrasolanki/chitrasolanki is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
